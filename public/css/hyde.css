@@ -31,10 +31,6 @@
  * Update the foundational and global aspects of the page.
  */
 
-@font-face {
-  font-family: "AdobeBlank";
-  src: url("../assets/fonts/SportingGrotesque-Bold.otf");
-}
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -84,7 +80,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "AdobeBlank";
+  font-family: "Abril Fatface", serif;
   font-size: 1.5rem;
 }
 
